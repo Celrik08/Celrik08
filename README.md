@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Fajar</h1>
-<h3 align="center">I'am a Softwer Developer (Dekstop and Mobile)</h3>
+<h3 align="center">I'am an Softwer Developer (Dekstop and Mobile)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celrik08&label=Profile%20views&color=0e75b6&style=flat&bg_color=545454&text_color=ffffff" alt="celrik08" /> </p>
 
