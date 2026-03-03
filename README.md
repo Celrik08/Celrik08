@@ -40,7 +40,7 @@
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Celrik08&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
   <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Celrik08&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Celrik08&theme=github_dark&utcOffset=7" />
+  <img width="390" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Celrik08&theme=github_dark&utcOffset=8" />
 </div>
 
 <br/><br/>
