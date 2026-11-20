@@ -73,6 +73,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Celrik08&theme=github-compact&hide_border=true&area=true&radius=8)
 
+<br>
 <div align="center">
     <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Celrik08&theme=github_dark" />
     <br/>
